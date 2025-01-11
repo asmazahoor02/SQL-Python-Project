@@ -3,9 +3,11 @@ Welcome to the SQL-Python-project repository! This repository have SQL and panda
 
 You’re welcome to Star this repository and share it with fellow data analytics enthusiasts!✨🎉
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Overview of the repository
+#Overview of the repository 
 
-This project focuses on analyzing e-commerce sales data to extract actionable insights. The analysis includes revenue trends, top-performing products, customer segmentation, and regional performance. The goal is to create a comprehensive sales analysis dashboard using Python and SQL.
+This project aims to examine e-commerce sales data to derive practical insights. The examination has income trends, best-selling products, customer demographics, and geographical performance. The objective is to develop an all-encompassing sales analysis dashboard utilizing Python and SQL.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
