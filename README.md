@@ -1,7 +1,8 @@
 # SQL-Python-Project
-Welcome to the SQL-Python-project repository! This repository have SQL and pandas certificate, and Ecommerce sales analysis project with its dataset. In the sales analysis project, combines SQL, Pandas, Matplotlib, and Seaborn to analyze sales data and find insights, DEA data,clean and transform it, and create a dashboard of visualizations to understand trends and performance. 
+Welcome to the SQL-Python-project repository! Using SQL, Pandas, Matplotlib, and Seaborn libraries, this repository contains an Ecommerce sales analysis project that analyzes sales data, does EDA Analysis, cleans and transforms data, finds insights, and visualizes preprocessed data to see patterns and performance.
 
-You’re welcome to Star this repository and share it with fellow data analytics enthusiasts!✨🎉
+
+You are free to star this repository and tell other data analytics enthusiasts about it!✨🎉✨🎉
 
 # Overview of the repository 
 
