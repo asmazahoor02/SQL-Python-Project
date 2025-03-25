@@ -1,30 +1,36 @@
-# SQL-Python-Projects
+# 🎗 SQL-Python-Projects
 
 Welcome to the SQL-Python-project repository! Using SQL, Pandas, Matplotlib, and Seaborn libraries, this repository contains an Ecommerce sales analysis project that analyzes sales data, does EDA Analysis, cleans and transforms data, finds insights, and visualizes preprocessed data to see patterns and performance.
 
 
 You are free to star this repository and tell other data analytics enthusiasts about it!✨🎉
 
+## 📖 Table of Contents  
+- [Project Discription](#Project-Discription)   
+- [Installation Guide](#installation-guide)
+- [Key Features](#key-features)  
+- [How to Use](#how-to-use)  
+- [Project Structure](#project-structure)  
+- [Contributing](#contributing)    
 
-## Project Description
+
+## 🏆Project Description
 
 The goal of this project is to analyze e-commerce sales data in order to extract useful information.  Income trends, top-selling items, client demographics, and regional success are all examined.  The goal is to use Python and SQL to create a comprehensive sales analysis dashboard.  In addition, it has certifications for pandas and SQL analysis.
 
-## Getting Started
+## Installation Guide
 
-### Dependencies
+### Dependencies and Liabraries
 
-Depenencoies and libraries that required to execute the following program
+Deoenedencies and Libraries that required to execute the  program
 
-* Python
-* sqlite
+* Python    
+* sqlite    
 * numpy
 * pandas
 * matplotlib
 * seaborn
 * jupyter or colab
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
 
 ### Installing
 
@@ -33,8 +39,14 @@ Depenencoies and libraries that required to execute the following program
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+Steps to set up the project.
+
+1. Clone the repository:
+
+  clone repository to your local computer and the change diurectory to the respected repository folder:
+   ```sh
+git clone https://github.com/your-username/SQL-Python-Projec.git
+cd SQL-Python-Projec
 ```
 code blocks for commands
 ```
