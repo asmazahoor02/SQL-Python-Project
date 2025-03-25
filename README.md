@@ -114,9 +114,8 @@ Contributors are welcomed to contribute in this project
 2. commit your changes
 3. Push to your branch
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details
+## 📜 License  
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 
 
