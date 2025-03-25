@@ -79,7 +79,7 @@ Either you provide your own desired data or download dataset from the project re
 * Collaboration: Use GitHub for documentation, sharing, and version control.
 
 ## 💼 Project Structure
-
+```
 📁SQL-Python-Project/
 │── 📁Final_project_of_sales_analysis/                        # using python libraries
 |   │── 📁Data/
@@ -104,6 +104,8 @@ Either you provide your own desired data or download dataset from the project re
 |   ├── quantity_sold.csv
 │── README.md
 │── requirements.txt
+
+```
 
 ## 📝 Contribution
 
