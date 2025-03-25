@@ -34,6 +34,23 @@ Deoenedencies and Libraries that required to execute the  program
 
 ### Installing
 
+Steps to set up the project.
+
+#### 1. Clone the repository:
+
+  clone repository to your local computer and the change diurectory to the respected repository folder:
+   ```sh
+git clone https://github.com/your-username/SQL-Python-Projec.git
+cd SQL-Python-Projec
+```
+code blocks for commands
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
