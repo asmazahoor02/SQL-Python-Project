@@ -1,0 +1,20 @@
+# Core programming language required
+🐍 Python (>=3.8)
+
+# to do Database Interaction ( it comes preinstall with python)
+📂 sqlite3                   
+
+# for mathematical mnaipulations of data
+🎲 numpy (>=1.23.5)
+
+# for Data Analysis
+🐼 pandas (>=1.5.3)           
+
+# # for graphical data visualization
+📊 matplotlib==3.8.1        
+# for statistical data visualization
+🎨 seaborn==0.12.2          
+
+# Notebook Environment
+📒 jupyter>=1.0.0(Optional) #  for more interactive and stability preferred 6.5+ 
+
